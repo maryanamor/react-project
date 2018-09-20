@@ -1,0 +1,6 @@
+.Post{
+    width: 30%;
+    margin:0 1%;
+    display: inline-block;
+    border: 2px solid grey;
+}

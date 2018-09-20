@@ -1,0 +1,16 @@
+.NewPost{
+    width: 60%;
+    margin: auto;
+    border: 1px solid grey;
+    box-shadow: 3px 3px 3px grey;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+.NewPost .AddPost .Add{
+    background-color: inherit;
+    color: orange;
+    border: 1px solid orange;
+    margin-top: 20px;
+    padding: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,16 @@
+.FullPost{
+    width: 60%;
+    margin: auto;
+    border: 1px solid grey;
+    box-shadow: 3px 3px 3px grey;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+.FullPost .Edit .Delete{
+    font-size: 16px;
+    background: inherit;
+    color: red;
+    border: none;
+    cursor: pointer;
+}
+
