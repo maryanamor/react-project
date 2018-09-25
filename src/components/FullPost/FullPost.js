@@ -4,6 +4,7 @@ import './FullPost.css';
 
 class FullPost extends Component{
     render() {
+
         let post = <p> Please select a Post! </p>;
 
         post = (
